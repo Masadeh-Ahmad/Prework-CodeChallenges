@@ -1,0 +1,16 @@
+C:\Users\Tomcat00\Dotnet-401\Prework-CodeChallenges\Challenge1\Challenge1\bin\Debug\net5.0\Challenge1.exe
+C:\Users\Tomcat00\Dotnet-401\Prework-CodeChallenges\Challenge1\Challenge1\bin\Debug\net5.0\Challenge1.deps.json
+C:\Users\Tomcat00\Dotnet-401\Prework-CodeChallenges\Challenge1\Challenge1\bin\Debug\net5.0\Challenge1.runtimeconfig.json
+C:\Users\Tomcat00\Dotnet-401\Prework-CodeChallenges\Challenge1\Challenge1\bin\Debug\net5.0\Challenge1.runtimeconfig.dev.json
+C:\Users\Tomcat00\Dotnet-401\Prework-CodeChallenges\Challenge1\Challenge1\bin\Debug\net5.0\Challenge1.dll
+C:\Users\Tomcat00\Dotnet-401\Prework-CodeChallenges\Challenge1\Challenge1\bin\Debug\net5.0\ref\Challenge1.dll
+C:\Users\Tomcat00\Dotnet-401\Prework-CodeChallenges\Challenge1\Challenge1\bin\Debug\net5.0\Challenge1.pdb
+C:\Users\Tomcat00\Dotnet-401\Prework-CodeChallenges\Challenge1\Challenge1\obj\Debug\net5.0\Challenge1.csproj.AssemblyReference.cache
+C:\Users\Tomcat00\Dotnet-401\Prework-CodeChallenges\Challenge1\Challenge1\obj\Debug\net5.0\Challenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomcat00\Dotnet-401\Prework-CodeChallenges\Challenge1\Challenge1\obj\Debug\net5.0\Challenge1.AssemblyInfoInputs.cache
+C:\Users\Tomcat00\Dotnet-401\Prework-CodeChallenges\Challenge1\Challenge1\obj\Debug\net5.0\Challenge1.AssemblyInfo.cs
+C:\Users\Tomcat00\Dotnet-401\Prework-CodeChallenges\Challenge1\Challenge1\obj\Debug\net5.0\Challenge1.csproj.CoreCompileInputs.cache
+C:\Users\Tomcat00\Dotnet-401\Prework-CodeChallenges\Challenge1\Challenge1\obj\Debug\net5.0\Challenge1.dll
+C:\Users\Tomcat00\Dotnet-401\Prework-CodeChallenges\Challenge1\Challenge1\obj\Debug\net5.0\ref\Challenge1.dll
+C:\Users\Tomcat00\Dotnet-401\Prework-CodeChallenges\Challenge1\Challenge1\obj\Debug\net5.0\Challenge1.pdb
+C:\Users\Tomcat00\Dotnet-401\Prework-CodeChallenges\Challenge1\Challenge1\obj\Debug\net5.0\Challenge1.genruntimeconfig.cache
